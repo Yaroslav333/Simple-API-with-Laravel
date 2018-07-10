@@ -1,2 +1,2 @@
 # Simple-API-with-Laravel
-test
+test 1
